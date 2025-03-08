@@ -1,0 +1,6 @@
+flask
+langchain
+pypdf
+sentence-transformers
+faiss-cpu
+flask-cors
